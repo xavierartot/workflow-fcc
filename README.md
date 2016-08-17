@@ -15,6 +15,8 @@ Accelerate your environment and development
 - Grunt: [Installing Grunt](http://gruntjs.com/installing-grunt)
 - Livereload extension Chrome, Safari or Firefox: [Livereload for Chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en1)
 
+---
+
 ##Installation
 
 **1. In your Terminal clone the repo(Github)**
