@@ -10,9 +10,9 @@ Accelerate your environment and development
 
 ###The prerequisites necessaries:
 - You need to have Node, NPM and Grunt installed.
-- npm: (https://docs.npmjs.com/cli/install)[https://docs.npmjs.com/cli/install]
-- Node: (https://nodejs.org/en/download/)[https://nodejs.org/en/download/]
-- Grunt: (http://gruntjs.com/installing-grunt)[http://gruntjs.com/installing-grunt]
+- NPM: [https://docs.npmjs.com/cli/install](Install NPM)
+- NodeJs: [NodeJs](https://nodejs.org/en/download/)
+- Grunt: [Installing Grunt](http://gruntjs.com/installing-grunt)
 - Livereload extension Chrome, Safari or Firefox: [Livereload for Chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en1)
 
 ##Installation
