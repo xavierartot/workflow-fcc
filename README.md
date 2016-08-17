@@ -39,7 +39,7 @@ the main files are:
 
 | Files         | Are                                     |
 | :------------ |:----------------------------------------|
-| js/_main.js   | you ass the Javascript here             |
+| js/_main.js   | you add the Javascript here             |
 | index.jade    | you add the html here                   | 
 | css/main.scss | the name for the SASS file (for the CSS)| 
 
