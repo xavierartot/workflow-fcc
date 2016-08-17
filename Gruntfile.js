@@ -116,6 +116,7 @@ module.exports = function(grunt) {
   ]);
   grunt.registerTask('dev', [
     'newer:jshint',
+    'watch',
     'newer:sass:dev',
     'newer:autoprefixer:dev',
     'uglify',
