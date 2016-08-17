@@ -17,24 +17,24 @@ Accelerate your environment and development
 
 ##Installation
 
-Clone the repo(Github)
+1. In your Terminal clone the repo(Github)
 
 git clone https://github.com/xavierartot/workflow-fcc my-project
 
-Go to the folder(you can change the name of the folder)
+2. Go in the folder
 
 cd my-project
 
-Install the package NPM
+3. Install the package NPM
 
 npm install
 
-Start Grunt and watch, compile...
+4. Start Grunt and Watch, to compile, Uglyfy, etc.
 
 grunt watch
 
-In your browser click on Livereload extension.
+5. In your browser click on Livereload extension.
 
-If you have an issue use Github or this post, for other question ask on this post.
+If you have an issue use Github or this post http://forum.freecodecamp.com/t/workflow-with-grunt-for-campers/28804
 
 Happy coding :grinning:
