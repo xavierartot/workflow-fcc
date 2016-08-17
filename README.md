@@ -13,7 +13,7 @@ Accelerate your environment and development
 - npm: (https://docs.npmjs.com/cli/install)[https://docs.npmjs.com/cli/install]
 - Node: (https://nodejs.org/en/download/)[https://nodejs.org/en/download/]
 - Grunt: (http://gruntjs.com/installing-grunt)[http://gruntjs.com/installing-grunt]
-- Livereload extension Chrome, Safari or Firefox: (https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en1)[https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en1]
+- Livereload extension Chrome, Safari or Firefox: [Livereload for Chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en1)
 
 ##Installation
 
