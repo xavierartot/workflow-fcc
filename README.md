@@ -29,7 +29,7 @@ Accelerate your environment and development
 
 `npm install`
 
-**4. Start Grunt and Watch, to compile, Uglyfy, etc.**
+**4. Start Grunt and Watch, to compile, Uglify, etc.**
 
 `grunt watch`
 
