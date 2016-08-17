@@ -37,11 +37,11 @@ Accelerate your environment and development
 
 the main files are:
 
-| Files         | Are                                     |
-| :------------ |:----------------------------------------|
-| js/_main.js   | you add the Javascript here             |
-| index.jade    | you add the html here                   | 
-| css/main.scss | the name for the SASS file (for the CSS)| 
+| Files         | Are                                        |
+| :------------ |:-------------------------------------------|
+| js/_main.js   | you add the Javascript here                |
+| index.jade    | you add the html here                      | 
+| css/main.scss | the name for the SASS file (for the CSS)   | 
 
 If you have an issue use Github or this post http://forum.freecodecamp.com/t/workflow-with-grunt-for-campers/28804
 
