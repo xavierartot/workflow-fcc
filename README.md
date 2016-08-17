@@ -47,6 +47,11 @@ the main files are:
 | index.jade    | you add the html here                      | 
 | css/main.scss | the name for the SASS file (for the CSS)   | 
 
+---
+##How I'm Using This Workflow With FCC
+I clone the repo for each exercice or project.
+Once I'm done I copy the code in FCC
+
 If you have an issue use Github or this post http://forum.freecodecamp.com/t/workflow-with-grunt-for-campers/28804
 
 Happy coding :grinning:
