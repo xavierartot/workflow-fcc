@@ -1,5 +1,5 @@
 # Free Code Camp Lab
-Accelerate your environment and lab
+Accelerate your environment and development
 
 ###It's doing the follow tasks:
 - reload the browser at each change with Livereload
@@ -8,12 +8,14 @@ Accelerate your environment and lab
 - compile the javascript js/_main.js to js/main.js
 - sass compitaltion css/main.scss to css/maincss
 
-The prerequisites necessaries:
+###The prerequisites necessaries:
 - You need to have Node, NPM and Grunt installed.
 - npm: (https://docs.npmjs.com/cli/install)[https://docs.npmjs.com/cli/install]
 - Node: (https://nodejs.org/en/download/)[https://nodejs.org/en/download/]
 - Grunt: (http://gruntjs.com/installing-grunt)[http://gruntjs.com/installing-grunt]
 - Livereload extension Chrome, Safari or Firefox: (https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en1)[https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en1]
+
+##Installation
 
 Clone the repo(Github)
 
