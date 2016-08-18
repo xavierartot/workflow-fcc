@@ -39,6 +39,7 @@ module.exports = function(grunt) {
       dev: {
         options: {                       // Target options
           lineNumbers: true,
+          sourcemap: true,
           style: 'compact'
         },
         files: {
