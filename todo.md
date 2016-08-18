@@ -1,2 +1,1 @@
-- otimization to work with vim and ctrlpvim/ctrlp.vim.
-thinking...
+- optimize the works with Vim, especialty with ctrlp.vim and the auto-completion with Jade.
