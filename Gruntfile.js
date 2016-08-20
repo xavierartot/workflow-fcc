@@ -6,7 +6,7 @@ module.exports = function(grunt) {
   require('time-grunt')(grunt);
 
   var jsFileList = [
-    'js/_main.js'
+    'js/script.js'
   ];
 
   grunt.initConfig({
@@ -16,7 +16,7 @@ module.exports = function(grunt) {
       },
       all: [
         'Gruntfile.js',
-        'js/_main.js'
+        'js/script.js'
       ]
     },
     autoprefixer: {
@@ -43,7 +43,7 @@ module.exports = function(grunt) {
           style: 'compact'
         },
         files: {
-          'css/main.css': 'css/main.scss'
+          'css/main.css': 'css/style.scss'
         }
       },
       build: {
@@ -52,7 +52,7 @@ module.exports = function(grunt) {
           sourcemap: 'none'
         },
         files: {
-          'css/main.css': 'css/main.scss'
+          'css/main.css': 'css/style.scss'
         }
       }
     },
@@ -73,7 +73,7 @@ module.exports = function(grunt) {
     uglify: {
       dist: {
         files: {
-          'js/main.js': ['js/_main.js'] //[jsFileList]
+          'js/main.js': ['js/script.js'] //[jsFileList]
         }
       }
     },
