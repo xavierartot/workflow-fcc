@@ -77,6 +77,15 @@ module.exports = function(grunt) {
         }
       }
     },
+    notify_hooks: {
+      options: {
+        enabled: true,
+        max_jshint_notifications: 10, // maximum number of notifications from jshint output
+        //title: "Project Name", // defaults to the name in package.json, or will use project directory's name
+        success: false, // whether successful grunt executions should be notified automatically
+        duration: 10 // the duration of notification in seconds, for `notify-send only
+      }
+    },
     watch: {
       sass: {
         files: [
@@ -110,6 +119,8 @@ module.exports = function(grunt) {
       }
     }
   });
+
+  grunt.task.run('notify_hooks');
 
   // Register tasks
   grunt.registerTask('default', [
