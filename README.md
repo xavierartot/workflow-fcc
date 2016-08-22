@@ -2,11 +2,12 @@
 Accelerate your environment and development
 
 ###It's doing the follow tasks:
-- reload the browser at each change with Livereload
-- Jade compilation to index.html
-- check the syntax Javascript with Jshint (you can configure the level in a dot file)
+- reload the browser each time your save your file
+- Jade compilation to index.html, with different option(you choice)
+- check the syntax Javascript inlive with Jshint (you can configure the level in a dot file)
 - compile the javascript js/_main.js to js/main.js
 - sass compitaltion css/main.scss to css/maincss
+- after saved your file, each error in your code send an popup
 
 ###The prerequisites necessaries:
 - You need to have Node, NPM and Grunt installed.
@@ -55,3 +56,4 @@ Once I'm done I copy the code in FCC
 If you have an issue use Github or this post http://forum.freecodecamp.com/t/workflow-with-grunt-for-campers/28804
 
 Happy coding :grinning:
+

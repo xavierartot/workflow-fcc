@@ -77,7 +77,7 @@ module.exports = function(grunt) {
         }
       }
     },
-    notify_hooks: {
+    notify: {
       options: {
         enabled: true,
         max_jshint_notifications: 10, // maximum number of notifications from jshint output
@@ -120,7 +120,7 @@ module.exports = function(grunt) {
     }
   });
 
-  grunt.task.run('notify_hooks');
+  grunt.task.run('notify');
 
   // Register tasks
   grunt.registerTask('default', [
@@ -128,6 +128,7 @@ module.exports = function(grunt) {
   ]);
   grunt.registerTask('dev', [
     'newer:jshint',
+    'notify',
     'watch',
     'newer:sass:dev',
     'newer:autoprefixer:dev',
