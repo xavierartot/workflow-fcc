@@ -1,4 +1,7 @@
 # Free Code Camp Lab
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/xavierartot/workflow-fcc.svg)](https://greenkeeper.io/)
+
 Accelerate your environment and development
 
 ###It's doing the follow tasks:
